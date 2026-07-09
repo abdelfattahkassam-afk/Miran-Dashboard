@@ -1,2 +1,0 @@
-# Miran-Dashboard
-Sales performance
